@@ -1,6 +1,5 @@
 # IMAGE-TRANSFORMATIONS
 
-
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
@@ -110,49 +109,28 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### i)Image Translation
-<br>
-<br>
-<br>
-<br>
+
+![IMG](https://raw.githubusercontent.com/Girithickrohan/IMAGE-TRANSFORMATIONS/refs/heads/main/1.png)
 
 ### ii) Image Scaling
-<br>
-<br>
-<br>
-<br>
 
+![IMG](https://raw.githubusercontent.com/Girithickrohan/IMAGE-TRANSFORMATIONS/refs/heads/main/2.png)
 
 ### iii)Image shearing
-<br>
-<br>
-<br>
-<br>
 
+![IMG](https://raw.githubusercontent.com/Girithickrohan/IMAGE-TRANSFORMATIONS/refs/heads/main/3.png)
 
 ### iv)Image Reflection
-<br>
-<br>
-<br>
-<br>
 
-
+![IMG](https://raw.githubusercontent.com/Girithickrohan/IMAGE-TRANSFORMATIONS/refs/heads/main/4.png)
 
 ### v)Image Rotation
-<br>
-<br>
-<br>
-<br>
 
-
+![IMG](https://raw.githubusercontent.com/Girithickrohan/IMAGE-TRANSFORMATIONS/refs/heads/main/5.png)
 
 ### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
 
-
-
+![IMG](https://raw.githubusercontent.com/Girithickrohan/IMAGE-TRANSFORMATIONS/refs/heads/main/6.png)
 
 ## Result: 
 
